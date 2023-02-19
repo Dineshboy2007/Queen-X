@@ -15,25 +15,25 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94719225807'] //ur owner number
-global.ownername = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur owner name
-global.ytname = "CYBER JOHN" //ur yt chanel name
+global.owner = ['94781292698'] //ur owner number
+global.ownername = "𝐁𝐋𝐀𝐂𝐊_𝐇𝐔𝐍𝐓𝐄𝐑-Ｘ ＢＯＴ" //ur owner name
+global.ytname = "" //ur yt chanel name
 global.socialm = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
 //ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ්👇 එක දාන්න
-global.session = "YXF5RWYwZ0I=" //session Id ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ් එක ඔකට දාන්න
-global.ownernomer = "94719225807" //ur number
-global.premium = ['94719225807'] //ur premium number
-global.botname = 'QUEEN -X' //ur bot name
-global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //ur website to be displayed
+global.session = "QW0wSFAxeWo=" //session Id ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ් එක ඔකට දාන්න
+global.ownernomer = "94781292698" //ur number
+global.premium = ['94781292698'] //ur premium number
+global.botname = '☘️🍁𝐁𝐋𝐀𝐂𝐊_𝐇𝐔𝐍𝐓𝐄𝐑™☘️🍁 -X' //ur bot name
+global.linkz = "https://chat.whatsapp.com/H0wt3aGIrt4Kf4O4pJZ3Cv" //your theme url which will be displayed on whatsapp
+global.websitex = "https://chat.whatsapp.com/H0wt3aGIrt4Kf4O4pJZ3Cv" //ur website to be displayed
 global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
 global.themeemoji = "🛸" //ur theme emoji
-global.packname = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur sticker watermark packname
-global.author = "ＱＵＥＥＮ-Ｘ ＢＯＴ\n\n\nA whatsapp bot developed by\n   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur sticker watermark author
-global.wm = "ＱＵＥＥＮ-Ｘ ＢＯＴ." //ur watermark
+global.packname = "☘️🍁𝐁𝐋𝐀𝐂𝐊_𝐇𝐔𝐍𝐓𝐄𝐑™☘️🍁 -Ｘ ＢＯＴ" //ur sticker watermark packname
+global.author = "☘️🍁𝐁𝐋𝐀𝐂𝐊_𝐇𝐔𝐍𝐓𝐄𝐑™☘️🍁 -Ｘ ＢＯＴ\n\n\nA whatsapp bot developed by\n   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur sticker watermark author
+global.wm = "☘️🍁𝐁𝐋𝐀𝐂𝐊_𝐇𝐔𝐍𝐓𝐄𝐑™☘️🍁 -Ｘ ＢＯＴ." //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -42,18 +42,18 @@ global.sp = ''
 
 //messages
 global.mess = {
-    success: '*💭Here you go!*',
-    admin: '*💭This feature could be used by admins only!*',
-    botAdmin: '*💭Bot Must Be Admin First!*',
-    premime: '*💭Premium Special Features If You Want to Register Type Rent*',
-    owner: '*💭This feature could be used by owner only*',
-    group: '*💭Features Used Only For Groups!*',
-    private: '*💭Features Used Only For Private Chat!*',
-    bot: '*💭This feature could be used by bot only*',
-    wait: '*💭Please wait...*',
-    linkm: '*💭Where is the link?*',
-    endLimit: '*💭Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours*',
-    nsfw: '*💭The nsfw feature has not been activated, please contact the admin to activate*',
+    success: '*☘️🍁Here you go!*',
+    admin: '*☘️🍁This feature could be used by admins only!*',
+    botAdmin: '*☘️🍁Bot Must Be Admin First!*',
+    premime: '*☘️🍁Premium Special Features If You Want to Register Type Rent*',
+    owner: '*☘️🍁This feature could be used by owner only*',
+    group: '*☘️🍁Features Used Only For Groups!*',
+    private: '*☘️🍁Features Used Only For Private Chat!*',
+    bot: '*☘️🍁This feature could be used by bot only*',
+    wait: '*☘️🍁Please wait...*',
+    linkm: '*☘️🍁Where is the link?*',
+    endLimit: '*☘️🍁Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours*',
+    nsfw: '*☘️🍁The nsfw feature has not been activated, please contact the admin to activate*',
 }
 
 //media target
